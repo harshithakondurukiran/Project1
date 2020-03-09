@@ -1,8 +1,9 @@
 def add(x,y):
 """Add Function"""
-return x+y
+pass
 
 def sub(x,y):
 """Sub Function"""
-return x-y
+pass
+
 
